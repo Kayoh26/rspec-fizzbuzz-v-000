@@ -1,4 +1,4 @@
 #define fizzbuzz method
-def fizzbuzz
+def fizzbuzz (number)
   
 end
