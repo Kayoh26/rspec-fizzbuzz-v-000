@@ -1,4 +1,6 @@
 #define fizzbuzz method
-def fizzbuzz (number)
-  
+def fizzbuzz (int)
+  if int % 3 == 0 
+    "Fizz"
+  end
 end
